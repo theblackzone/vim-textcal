@@ -36,7 +36,7 @@ Current limitations:
 - Displays:
   - Calendar weeks (ISO/DIN 1355 standard)
   - Public holidays (Germany)
-  - Movable feasts (e.g., Easter, Pentecost, Christmas)
+  - Movable feasts (e.g., Easter, Pentecost, etc.)
   - Annotations for potential bridge days
 - Each month is wrapped in an outliner-style fold (for easy text folding in Vim)
 - Outputs to a new buffer and sets the filename to `textcal-<year>.txt`
@@ -44,7 +44,7 @@ Current limitations:
 
 ## Installation
 
-Download the plugin file textcal.vim and place it in your Vim plugin directory.
+Download the plugin file `textcal.vim` and place it in your Vim plugin directory.
 
 ## Usage
 
